@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A",
+      "price": 100,
+      "img": "https://tse2.explicit.bing.net/th?id=OIP.cbw1UZgv2zGTsWj4HLDWUgHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "2",
+      "name": "Product B",
+      "price": 200,
+      "img": "https://tse2.explicit.bing.net/th?id=OIP.cbw1UZgv2zGTsWj4HLDWUgHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "3",
+      "name": "Product C",
+      "price": 300,
+      "img": "https://tse2.explicit.bing.net/th?id=OIP.cbw1UZgv2zGTsWj4HLDWUgHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4",
+      "name": "Product D",
+      "price": 400,
+      "img": "https://tse2.explicit.bing.net/th?id=OIP.cbw1UZgv2zGTsWj4HLDWUgHaHa&pid=Api&P=0&h=180"
+    }
+  ]
+}
